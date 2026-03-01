@@ -1,0 +1,11 @@
+title="Era of Strife (AE)"
+type="era"
+icon="units/monsters/direwolf.png"
+forum_auth="true"
+author="ahyangyi"
+secondary_authors=""
+dependencies="Ageless_Era"
+
+version="1.0.0"
+
+description="Era of Strife, as sub-eras of Ageless Era"
