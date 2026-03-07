@@ -1,0 +1,7 @@
+# v1 series
+## 1.1.0
+- Apply the "add quick to 4MP leaders" fix
+- Add various "Era of Strife (AE) + Default" eras
+
+## 1.0.0
+- Initial release
